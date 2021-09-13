@@ -2,7 +2,17 @@
 
 Welcome to inChuck. You perform inChuck by adding melodic "processes"
 to the system, indicating which process, how many times it should be played,
-and in what register.  To add a process to the piece, type:
+and in what register.
+
+## Launching inChuck
+Open a command prompt (Terminal on Mac, Command Prompt on Windows). Change directory to the location of the inChuck score folder, e.g.
+```cd ~/Desktop/MULE-F21/inChuck/score```
+Enter the command:
+```chuck inChuckCode.ck --loop &```
+
+## Performing inChuck
+
+To add a process to the piece, type:
    
 chuck + x:y:z
    

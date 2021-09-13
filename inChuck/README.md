@@ -6,13 +6,13 @@ and in what register.
 
 ## Launching inChuck
 Open a command prompt (Terminal on Mac, Command Prompt on Windows). Change directory to the location of the inChuck score folder, e.g.  
-
+  
 ```cd ~/Desktop/MULE-F21/inChuck/score```  
-
+  
 Enter the command:  
-
+  
 ```chuck inChuckCode.ck --loop &```
-
+  
 ## Performing inChuck
 
 To add a process to the piece, type:  

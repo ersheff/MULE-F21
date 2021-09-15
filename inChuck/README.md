@@ -3,9 +3,8 @@
 Welcome to inChuck. You perform inChuck by adding melodic "processes"
 to the system, indicating which process, how many times it should be played,
 and in what register.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-ZrmajoMxcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+  
+[Performance Video](https://www.youtube.com/embed/-ZrmajoMxcE)
   
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/-ZrmajoMxcE" frameborder="0" allowfullscreen="true"> </iframe>

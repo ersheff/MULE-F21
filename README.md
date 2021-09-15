@@ -1,5 +1,21 @@
 # MULE-F21
 
-Reposiory for Miami University Laptop Ensemble repetoire files.
+Repository for Miami University Laptop Ensemble files.  
+  
+### Repetoire List:
+- [inChuck](inChuck) - Stephen David Beck*
+- [Unmute](Unmute) - Flannery Cunningham*
+- [Singaporean Crosswalk](SingaporeanCrosswalk) - Joo-Won Park*
+- [Sonic Meditations](SonicMeditations) - Pauline Oliveros*
+  
+### Software List:
+All MULE members are expected to install these applications on their laptops.
+- [Max](https://cycling74.com/downloads)
+- [ChucK](http://chuck.stanford.edu/)
+- [RetroArch](https://www.retroarch.com/)
 
-[inChuck](inChuck) - Stephen David Beck
+### General Resources:
+- [Controller Mapping](ContollerMapping)
+- [Gibber](https://gibber.cc/alpha/playground/)
+
+*\*Needs attention - to-do lists are in the individual ReadMe pages.*

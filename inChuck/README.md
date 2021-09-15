@@ -1,10 +1,12 @@
-# inChuck - Stephen David Beck
+# [inChuck - Stephen David Beck](https://sdbeck.blog/music/inchuck/)
 
 Welcome to inChuck. You perform inChuck by adding melodic "processes"
 to the system, indicating which process, how many times it should be played,
 and in what register.
 
-## Launching inChuck
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-ZrmajoMxcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Launching inChuck
 Open a command prompt (Terminal on Mac, Command Prompt on Windows). Change directory to the location of the inChuck score folder, e.g.  
   
 ```cd ~/Desktop/MULE-F21/inChuck/score```  
@@ -13,7 +15,7 @@ Enter the command:
   
 ```chuck inChuckCode.ck --loop &```
   
-## Performing inChuck
+### Performing inChuck
 
 To add a process to the piece, type:  
    
@@ -37,3 +39,8 @@ When you have reached process #19 and are done, type "chuck --kill".
 If you are the pulse, start now by typing:  
    
 ```chuck + pulse*```
+
+[Score](inchuck_score.pdf)
+
+### To-Dos
+- Establish command-line performance process for Windows

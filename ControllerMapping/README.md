@@ -2,8 +2,8 @@
 
 The Max patch in this folder has been created to automatically map and sort incoming data from various video game controllers. Still needs some testing and improvement.
 
-![MULE Controller Mapping Max patch screenshot](img/controllerMappingScreenshot.png)
-  
+<img src="img/controllerMappingScreenshot.png" alt="Controller Mapping Max patch screenshot" width="400"/>
+
 It is intended to be used inside of a bpatcher. To create the bpatcher in your Max patch:
 1. Make sure that the MULE21 folder has been added to your Max File Preferences under the Options menu
 2. Open the patch that needs controller input and unlock (put in edit mode).

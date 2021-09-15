@@ -55,7 +55,7 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "",
+					"comment" : "right trigger",
 					"id" : "obj-23",
 					"index" : 0,
 					"maxclass" : "outlet",
@@ -67,7 +67,7 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "",
+					"comment" : "left trigger",
 					"id" : "obj-24",
 					"index" : 0,
 					"maxclass" : "outlet",
@@ -79,7 +79,7 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "",
+					"comment" : "left face button",
 					"id" : "obj-17",
 					"index" : 0,
 					"maxclass" : "outlet",
@@ -91,7 +91,7 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "",
+					"comment" : "bottom face button",
 					"id" : "obj-18",
 					"index" : 0,
 					"maxclass" : "outlet",
@@ -103,7 +103,7 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "",
+					"comment" : "right face button",
 					"id" : "obj-19",
 					"index" : 0,
 					"maxclass" : "outlet",
@@ -115,7 +115,7 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "",
+					"comment" : "upper face button",
 					"id" : "obj-21",
 					"index" : 0,
 					"maxclass" : "outlet",
@@ -127,7 +127,7 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "",
+					"comment" : "d-pad left",
 					"id" : "obj-16",
 					"index" : 0,
 					"maxclass" : "outlet",
@@ -139,7 +139,7 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "",
+					"comment" : "d-pad down",
 					"id" : "obj-13",
 					"index" : 0,
 					"maxclass" : "outlet",
@@ -151,7 +151,7 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "",
+					"comment" : "d-pad right",
 					"id" : "obj-12",
 					"index" : 0,
 					"maxclass" : "outlet",
@@ -163,7 +163,7 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "",
+					"comment" : "d-pad up",
 					"id" : "obj-11",
 					"index" : 0,
 					"maxclass" : "outlet",
@@ -175,7 +175,7 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "",
+					"comment" : "right stick Y",
 					"id" : "obj-10",
 					"index" : 0,
 					"maxclass" : "outlet",
@@ -187,7 +187,7 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "",
+					"comment" : "right stick X",
 					"id" : "obj-9",
 					"index" : 0,
 					"maxclass" : "outlet",
@@ -199,7 +199,7 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "",
+					"comment" : "left stick Y",
 					"id" : "obj-8",
 					"index" : 0,
 					"maxclass" : "outlet",
@@ -211,7 +211,7 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "",
+					"comment" : "left stick X",
 					"id" : "obj-7",
 					"index" : 0,
 					"maxclass" : "outlet",

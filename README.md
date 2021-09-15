@@ -15,7 +15,7 @@ All MULE members are expected to install these applications on their laptops.
 - [RetroArch](https://www.retroarch.com/)
 
 ### General Resources:
-- [Controller Mapping](ContollerMapping)
+- [Controller Mapping](ControllerMapping)
 - [Gibber](https://gibber.cc/alpha/playground/)
 
-*\*Needs attention - to-do lists are in the individual ReadMe pages.*
+*\*Needs attention - to-do lists are on the individual ReadMe pages.*

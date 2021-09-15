@@ -6,6 +6,11 @@ and in what register.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-ZrmajoMxcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+  
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/-ZrmajoMxcE" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+  
 ### Launching inChuck
 Open a command prompt (Terminal on Mac, Command Prompt on Windows). Change directory to the location of the inChuck score folder, e.g.  
   

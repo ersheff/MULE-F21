@@ -12,7 +12,7 @@ a Leap motion sensor provide control of dynamics and timbre. I imagine Unmute as
 an augmentation for a sung choral experience and as (hopefully) bringing that experience 
 to a broadened array of sound-makers. Let’s sing (or “sing”) together.
 
-[Performance Video](https://www.youtube.com/embed/Qs-yNCWS2hQ)
+[Performance Video](https://www.youtube.com/embed/Qs-yNCWS2hQ)  
 [Score](Cunningham_Unmute_score101019.pdf)
 
 ### To-Dos

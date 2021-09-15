@@ -1,7 +1,5 @@
 # Umute - [Flannery Cunningham](http://flannerycunningham.com/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Qs-yNCWS2hQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 >I have always found singing in choirs a deeply poignant, community-building experience. 
 For me, there’s something uniquely joyful about joining one’s voice with others in a 
 collective sound created by instruments housed in their users’ bodies. But of course not 
@@ -14,6 +12,7 @@ a Leap motion sensor provide control of dynamics and timbre. I imagine Unmute as
 an augmentation for a sung choral experience and as (hopefully) bringing that experience 
 to a broadened array of sound-makers. Let’s sing (or “sing”) together.
 
+[Performance Video](https://www.youtube.com/embed/Qs-yNCWS2hQ)
 [Score](Cunningham_Unmute_score101019.pdf)
 
 ### To-Dos

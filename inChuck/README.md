@@ -6,10 +6,6 @@ and in what register.
   
 [Performance Video](https://www.youtube.com/embed/-ZrmajoMxcE)
   
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/-ZrmajoMxcE" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-  
 ### Launching inChuck
 Open a command prompt (Terminal on Mac, Command Prompt on Windows). Change directory to the location of the inChuck score folder, e.g.  
   

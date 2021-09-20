@@ -656,6 +656,7 @@
 						"style" : "",
 						"subpatcher_template" : "",
 						"assistshowspatchername" : 0,
+						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-2",
@@ -708,11 +709,11 @@
 								"box" : 								{
 									"id" : "obj-95",
 									"maxclass" : "newobj",
-									"numinlets" : 6,
-									"numoutlets" : 6,
-									"outlettype" : [ "", "", "", "", "", "" ],
-									"patching_rect" : [ 496.0, 312.0, 119.0, 22.0 ],
-									"text" : "route 48 49 50 51 52"
+									"numinlets" : 7,
+									"numoutlets" : 7,
+									"outlettype" : [ "", "", "", "", "", "", "" ],
+									"patching_rect" : [ 496.0, 312.0, 136.0, 22.0 ],
+									"text" : "route 51 48 49 50 52 53"
 								}
 
 							}

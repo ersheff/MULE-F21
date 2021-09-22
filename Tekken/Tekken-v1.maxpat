@@ -294,7 +294,7 @@
 					"lockeddragscroll" : 0,
 					"lockedsize" : 0,
 					"maxclass" : "bpatcher",
-					"name" : "controllerMappingv3.maxpat",
+					"name" : "controllerMapping-v3.maxpat",
 					"numinlets" : 0,
 					"numoutlets" : 14,
 					"offset" : [ 0.0, 0.0 ],
@@ -1432,62 +1432,6 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-106", 0 ],
-					"source" : [ "obj-102", 4 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-107", 0 ],
-					"source" : [ "obj-102", 5 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-108", 0 ],
-					"source" : [ "obj-102", 6 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-109", 0 ],
-					"source" : [ "obj-102", 7 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-110", 0 ],
-					"source" : [ "obj-102", 11 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-111", 0 ],
-					"source" : [ "obj-102", 10 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-112", 0 ],
-					"source" : [ "obj-102", 9 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-113", 0 ],
-					"source" : [ "obj-102", 8 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
 					"destination" : [ "obj-114", 0 ],
 					"source" : [ "obj-106", 0 ]
 				}
@@ -2232,7 +2176,7 @@
 		}
 ,
 		"dependency_cache" : [ 			{
-				"name" : "controllerMappingv3.maxpat",
+				"name" : "controllerMapping-v3.maxpat",
 				"bootpath" : "~/Documents/GitHub/MULE-F21/ControllerMapping",
 				"patcherrelativepath" : "../ControllerMapping",
 				"type" : "JSON",

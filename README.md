@@ -10,7 +10,7 @@ Repository for Miami University Laptop Ensemble files.
 
 ## Maybes?...
 - [Tekken Music](Tekken)
-- Reese's Piece
+- [Reese's Piece](Reese)
 - [Vocal Processing w/ Improv Actors](VocalProcessing)
 - [Unmute](Unmute) - Flannery Cunningham*
 

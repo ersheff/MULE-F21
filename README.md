@@ -6,15 +6,15 @@ Repository for Miami University Laptop Ensemble files.
 
 ## Sure Things
 - [Singaporean Crosswalk](SingaporeanCrosswalk) - Joo-Won Park
-- Gibber/Gabber improvisation
+- [Gibber/Gabber improvisation](Gibber)
 
 ## Maybes?...
 - [Tekken Music](Tekken)
 - Reese's Piece
-- Vocal Processing w/ Improv Actors
+- [Vocal Processing w/ Improv Actors](VocalProcessing)
+- [Unmute](Unmute) - Flannery Cunningham*
 
 ## Unlikely, but still being considered
-- [Unmute](Unmute) - Flannery Cunningham*
 - [Sonic Meditations](SonicMeditations) - Pauline Oliveros*
 - [inChuck](inChuck) - Stephen David Beck*
   
@@ -27,6 +27,6 @@ All MULE members are expected to install these applications on their laptops.
 
 ### General Resources:
 - [Controller Mapping](ControllerMapping)
-- [Gibber](https://gibber.cc/alpha/playground/)
+- [Gibber Site](https://gibber.cc/alpha/playground/)
 
 *\*Needs attention - to-do lists are on the individual ReadMe pages.*

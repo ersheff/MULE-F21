@@ -779,7 +779,6 @@
 					"outlettype" : [ "int", "", "" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 872.0, 391.0, 160.0, 22.0 ],
-					"prefix" : "~/Documents/GitHub/MULE-F21/Tekken/TekkenSamples/",
 					"presentation" : 1,
 					"presentation_rect" : [ 784.0, 300.0, 160.0, 22.0 ]
 				}
@@ -860,7 +859,6 @@
 					"outlettype" : [ "int", "", "" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 604.0, 391.0, 160.0, 22.0 ],
-					"prefix" : "~/Documents/GitHub/MULE-F21/Tekken/TekkenSamples/",
 					"presentation" : 1,
 					"presentation_rect" : [ 526.0, 300.0, 160.0, 22.0 ]
 				}
@@ -941,7 +939,6 @@
 					"outlettype" : [ "int", "", "" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 336.0, 391.0, 160.0, 22.0 ],
-					"prefix" : "~/Documents/GitHub/MULE-F21/Tekken/TekkenSamples/",
 					"presentation" : 1,
 					"presentation_rect" : [ 268.0, 300.0, 160.0, 22.0 ]
 				}
@@ -1022,7 +1019,6 @@
 					"outlettype" : [ "int", "", "" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 872.0, 837.0, 160.0, 22.0 ],
-					"prefix" : "~/Documents/GitHub/MULE-F21/Tekken/GuitarSamples/",
 					"presentation" : 1,
 					"presentation_rect" : [ 784.0, 439.0, 160.0, 22.0 ]
 				}
@@ -1103,7 +1099,6 @@
 					"outlettype" : [ "int", "", "" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 604.0, 837.0, 160.0, 22.0 ],
-					"prefix" : "~/Documents/GitHub/MULE-F21/Tekken/GuitarSamples/",
 					"presentation" : 1,
 					"presentation_rect" : [ 526.0, 439.0, 160.0, 22.0 ]
 				}
@@ -1184,7 +1179,6 @@
 					"outlettype" : [ "int", "", "" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 336.0, 837.0, 160.0, 22.0 ],
-					"prefix" : "~/Documents/GitHub/MULE-F21/Tekken/GuitarSamples/",
 					"presentation" : 1,
 					"presentation_rect" : [ 268.0, 439.0, 160.0, 22.0 ]
 				}
@@ -1366,7 +1360,6 @@
 					"outlettype" : [ "int", "", "" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 68.0, 391.0, 160.0, 22.0 ],
-					"prefix" : "~/Documents/GitHub/MULE-F21/Tekken/TekkenSamples/",
 					"presentation" : 1,
 					"presentation_rect" : [ 10.0, 300.0, 160.0, 22.0 ]
 				}
@@ -1384,7 +1377,6 @@
 					"outlettype" : [ "int", "", "" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 68.0, 837.0, 160.0, 22.0 ],
-					"prefix" : "~/Documents/GitHub/MULE-F21/Tekken/GuitarSamples/",
 					"presentation" : 1,
 					"presentation_rect" : [ 10.0, 439.0, 160.0, 22.0 ]
 				}

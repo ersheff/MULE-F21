@@ -18,4 +18,3 @@ to a broadened array of sound-makers. Let’s sing (or “sing”) together.
 ### To-Dos
 - Waiting for patch from Flannery
 - Determine control scheme (replacement for Leap Motion, should be physical/visual)
-- Test oFxFaceTracker ([version 1](https://github.com/kylemcdonald/ofxFaceTracker) or [version 2](https://github.com/HalfdanJ/ofxFaceTracker2))

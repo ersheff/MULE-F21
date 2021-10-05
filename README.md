@@ -2,22 +2,24 @@
 
 Repository for Miami University Laptop Ensemble files.  
   
-### Repetoire List
+## Repetoire List
 
-## Sure Things
+### Sure Things
 - [Singaporean Crosswalk](SingaporeanCrosswalk) - Joo-Won Park
 - [Gibber/Gabber improvisation](Gibber)
 
-## Maybes?...
+### In Process
 - [Tekken Music](Tekken)
 - [Reese's Piece](ReeseSoundscape)
 - [Vocal Processing w/ Improv Actors](VocalProcessing)
 - [Unmute](Unmute) - Flannery Cunningham*
 
-## Unlikely, but still being considered
-- [Sonic Meditations](SonicMeditations) - Pauline Oliveros*
-- [inChuck](inChuck) - Stephen David Beck*
-  
+### Unlikely, but still being considered (in Backup)
+- [Sonic Meditations](Backup/SonicMeditations) - Pauline Oliveros*
+- [inChuck](Backup/inChuck) - Stephen David Beck*
+
+---
+
 ### Software List:
 All MULE members are expected to install these applications on their laptops.
 - [Max](https://cycling74.com/downloads)

@@ -1,5 +1,8 @@
 # MULE Gibber Cheat Sheet
 
+[Gibber Site](https://gibber.cc/alpha/playground/)
+Room = MULE
+
 ## General
 - Set tempo at the top with — e.g. Clock.bpm = 140
 - We should prepare a stop line for every variable ahead of time — e.g. kick.stop()
@@ -30,3 +33,8 @@
 - FX!
 - Instrument parameters (e.g. presets, decay, detune, etc)
 - Other ways to define drum sequences (tidal cycles or step sequencer)
+
+## Other Notes
+- PLUCK IS BROKEN! DON'T USE IT!!!
+- "Orphaned" instruments - ones that we can't get to stop with .stop() - can be stopped with find("Synth").disconnect() command in console
+- We need to focus on more "asymmetrical" trigger/note sequences, e.g. [1,0,0.5], [1/4,1/16,1/8,1/16]

@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 59.0, 81.0, 1071.0, 566.0 ],
+		"rect" : [ 59.0, 62.0, 1071.0, 566.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -40,6 +40,142 @@
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
 				"box" : 				{
+					"autopopulate" : 1,
+					"depth" : 1,
+					"id" : "obj-21",
+					"items" : [ "Arpeggio.wav", ",", "Bleep.wav", ",", "Chug1.wav", ",", "Chug2.wav", ",", "Chug3.wav", ",", "ChugBend.wav", ",", "PullOff.wav" ],
+					"maxclass" : "umenu",
+					"numinlets" : 1,
+					"numoutlets" : 3,
+					"outlettype" : [ "int", "", "" ],
+					"parameter_enable" : 0,
+					"patching_rect" : [ 902.0, 395.0, 100.0, 22.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 784.0, 299.0, 100.0, 22.0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"autopopulate" : 1,
+					"depth" : 1,
+					"id" : "obj-19",
+					"items" : [ "Arpeggio.wav", ",", "Bleep.wav", ",", "Chug1.wav", ",", "Chug2.wav", ",", "Chug3.wav", ",", "ChugBend.wav", ",", "PullOff.wav" ],
+					"maxclass" : "umenu",
+					"numinlets" : 1,
+					"numoutlets" : 3,
+					"outlettype" : [ "int", "", "" ],
+					"parameter_enable" : 0,
+					"patching_rect" : [ 634.0, 395.0, 100.0, 22.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 526.0, 299.0, 100.0, 22.0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"autopopulate" : 1,
+					"depth" : 1,
+					"id" : "obj-18",
+					"items" : [ "Arpeggio.wav", ",", "Bleep.wav", ",", "Chug1.wav", ",", "Chug2.wav", ",", "Chug3.wav", ",", "ChugBend.wav", ",", "PullOff.wav" ],
+					"maxclass" : "umenu",
+					"numinlets" : 1,
+					"numoutlets" : 3,
+					"outlettype" : [ "int", "", "" ],
+					"parameter_enable" : 0,
+					"patching_rect" : [ 366.0, 395.0, 100.0, 22.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 268.0, 299.0, 100.0, 22.0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"autopopulate" : 1,
+					"depth" : 1,
+					"id" : "obj-6",
+					"items" : [ "Beam.wav", ",", "BigHit1.wav", ",", "BigHit2.wav", ",", "BigHit3.wav", ",", "BigHit4.wav", ",", "BigHit5.wav", ",", "BigHit6.wav", ",", "BigHit7.wav", ",", "BigHit8.wav", ",", "BigHit9.wav", ",", "Clang1.wav", ",", "Clang2.wav", ",", "Drop.wav", ",", "Grunt.wav", ",", "Gun.wav", ",", "Oops.wav", ",", "Perfect.wav", ",", "SmallHit1.wav", ",", "SmallHit2.wav", ",", "SmallHit3.wav", ",", "SmallHit4.wav", ",", "SmallHit5.wav", ",", "SmallHit6.wav", ",", "SmallHit7.wav", ",", "Whiff.wav" ],
+					"maxclass" : "umenu",
+					"numinlets" : 1,
+					"numoutlets" : 3,
+					"outlettype" : [ "int", "", "" ],
+					"parameter_enable" : 0,
+					"patching_rect" : [ 902.0, 841.0, 100.0, 22.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 784.0, 438.0, 100.0, 22.0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"autopopulate" : 1,
+					"depth" : 1,
+					"id" : "obj-4",
+					"items" : [ "Beam.wav", ",", "BigHit1.wav", ",", "BigHit2.wav", ",", "BigHit3.wav", ",", "BigHit4.wav", ",", "BigHit5.wav", ",", "BigHit6.wav", ",", "BigHit7.wav", ",", "BigHit8.wav", ",", "BigHit9.wav", ",", "Clang1.wav", ",", "Clang2.wav", ",", "Drop.wav", ",", "Grunt.wav", ",", "Gun.wav", ",", "Oops.wav", ",", "Perfect.wav", ",", "SmallHit1.wav", ",", "SmallHit2.wav", ",", "SmallHit3.wav", ",", "SmallHit4.wav", ",", "SmallHit5.wav", ",", "SmallHit6.wav", ",", "SmallHit7.wav", ",", "Whiff.wav" ],
+					"maxclass" : "umenu",
+					"numinlets" : 1,
+					"numoutlets" : 3,
+					"outlettype" : [ "int", "", "" ],
+					"parameter_enable" : 0,
+					"patching_rect" : [ 634.0, 841.0, 100.0, 22.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 526.0, 438.0, 100.0, 22.0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"autopopulate" : 1,
+					"depth" : 1,
+					"id" : "obj-3",
+					"items" : [ "Beam.wav", ",", "BigHit1.wav", ",", "BigHit2.wav", ",", "BigHit3.wav", ",", "BigHit4.wav", ",", "BigHit5.wav", ",", "BigHit6.wav", ",", "BigHit7.wav", ",", "BigHit8.wav", ",", "BigHit9.wav", ",", "Clang1.wav", ",", "Clang2.wav", ",", "Drop.wav", ",", "Grunt.wav", ",", "Gun.wav", ",", "Oops.wav", ",", "Perfect.wav", ",", "SmallHit1.wav", ",", "SmallHit2.wav", ",", "SmallHit3.wav", ",", "SmallHit4.wav", ",", "SmallHit5.wav", ",", "SmallHit6.wav", ",", "SmallHit7.wav", ",", "Whiff.wav" ],
+					"maxclass" : "umenu",
+					"numinlets" : 1,
+					"numoutlets" : 3,
+					"outlettype" : [ "int", "", "" ],
+					"parameter_enable" : 0,
+					"patching_rect" : [ 366.0, 841.0, 100.0, 22.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 268.0, 438.0, 100.0, 22.0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"autopopulate" : 1,
+					"depth" : 1,
+					"id" : "obj-2",
+					"items" : [ "Beam.wav", ",", "BigHit1.wav", ",", "BigHit2.wav", ",", "BigHit3.wav", ",", "BigHit4.wav", ",", "BigHit5.wav", ",", "BigHit6.wav", ",", "BigHit7.wav", ",", "BigHit8.wav", ",", "BigHit9.wav", ",", "Clang1.wav", ",", "Clang2.wav", ",", "Drop.wav", ",", "Grunt.wav", ",", "Gun.wav", ",", "Oops.wav", ",", "Perfect.wav", ",", "SmallHit1.wav", ",", "SmallHit2.wav", ",", "SmallHit3.wav", ",", "SmallHit4.wav", ",", "SmallHit5.wav", ",", "SmallHit6.wav", ",", "SmallHit7.wav", ",", "Whiff.wav" ],
+					"maxclass" : "umenu",
+					"numinlets" : 1,
+					"numoutlets" : 3,
+					"outlettype" : [ "int", "", "" ],
+					"parameter_enable" : 0,
+					"patching_rect" : [ 98.0, 841.0, 100.0, 22.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 10.0, 438.0, 100.0, 22.0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"autopopulate" : 1,
+					"depth" : 1,
+					"id" : "obj-1",
+					"items" : [ "Arpeggio.wav", ",", "Bleep.wav", ",", "Chug1.wav", ",", "Chug2.wav", ",", "Chug3.wav", ",", "ChugBend.wav", ",", "PullOff.wav" ],
+					"maxclass" : "umenu",
+					"numinlets" : 1,
+					"numoutlets" : 3,
+					"outlettype" : [ "int", "", "" ],
+					"parameter_enable" : 0,
+					"patching_rect" : [ 98.0, 395.0, 100.0, 22.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 10.0, 299.0, 100.0, 22.0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"fontface" : 1,
 					"fontsize" : 24.0,
 					"id" : "obj-129",
@@ -49,7 +185,7 @@
 					"patching_rect" : [ 650.0, 160.0, 306.0, 33.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 10.0, 16.0, 306.0, 33.0 ],
-					"text" : "Tekken Sample Player v1"
+					"text" : "Tekken Sample Player v2"
 				}
 
 			}
@@ -294,7 +430,7 @@
 					"lockeddragscroll" : 0,
 					"lockedsize" : 0,
 					"maxclass" : "bpatcher",
-					"name" : "controllerMapping-v3.maxpat",
+					"name" : "controllerMapping-v3b.maxpat",
 					"numinlets" : 0,
 					"numoutlets" : 14,
 					"offset" : [ 0.0, 0.0 ],
@@ -769,23 +905,6 @@
 			}
 , 			{
 				"box" : 				{
-					"autopopulate" : 1,
-					"depth" : 1,
-					"id" : "obj-67",
-					"items" : [ "1+2 CH.wav", ",", "3 Hit.wav", ",", "4 Hit.wav", ",", "Akuma Grunt.wav", ",", "Alarm.wav", ",", "Arcade Jingle.wav", ",", "Blaster.wav", ",", "CH Launch.wav", ",", "Character Select.wav", ",", "Chicken.wav", ",", "Continue_.wav", ",", "D4 CH.wav", ",", "DB4 Hit.wav", ",", "Devil Jin Beam.wav", ",", "DF1 Blocked.wav", ",", "DF1 Hit.wav", ",", "DF1-2, 3+4.wav", ",", "DF2 Hit.wav", ",", "Double K.O.wav", ",", "Draw.wav", ",", "EWGF Whiff.wav", ",", "EX Meter.wav", ",", "FADC.wav", ",", "FF4 CH.wav", ",", "Fight Money Earned.wav", ",", "Fight!.wav", ",", "Final Round.wav", ",", "Game Over.wav", ",", "Good Morning.wav", ",", "Great.wav", ",", "Gun.wav", ",", "Jab 1.wav", ",", "Jab 2.wav", ",", "Jack 7 1+2.wav", ",", "Jack 7 Throw.wav", ",", "Jump Whiff.wav", ",", "K.O.wav", ",", "Ki Charge.wav", ",", "King Roar 1.wav", ",", "King Roar 2.wav", ",", "King Roar 3.wav", ",", "New Challenger.wav", ",", "oops.wav", ",", "Perfect.wav", ",", "Post Slo-mo Hit.wav", ",", "Rage Art.wav", ",", "Rage Drive Blocked.wav", ",", "Rage Drive Hit.wav", ",", "Rage Mode.wav", ",", "Rank Up.wav", ",", "Revenge Match.wav", ",", "Round 1.wav", ",", "Round 2.wav", ",", "Round 3.wav", ",", "Round 4.wav", ",", "Scroll.wav", ",", "Side Select.wav", ",", "Special Battle 2.wav", ",", "Special Battle 3.wav", ",", "Special Battle.wav", ",", "Spent Fight Money.wav", ",", "Staff.wav", ",", "Steve Fox Wall Combo.wav", ",", "Time up.wav", ",", "Wall Splat.wav", ",", "Welcome to Tekken 7.wav", ",", "Whiff 1.wav", ",", "Whiff 2.wav", ",", "Whiff 3.wav", ",", "Yoshimitsu Intro.wav", ",", "You Lose.wav", ",", "You Win.wav" ],
-					"maxclass" : "umenu",
-					"numinlets" : 1,
-					"numoutlets" : 3,
-					"outlettype" : [ "int", "", "" ],
-					"parameter_enable" : 0,
-					"patching_rect" : [ 872.0, 391.0, 160.0, 22.0 ],
-					"presentation" : 1,
-					"presentation_rect" : [ 784.0, 300.0, 160.0, 22.0 ]
-				}
-
-			}
-, 			{
-				"box" : 				{
 					"id" : "obj-53",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
@@ -844,23 +963,6 @@
 					"outlettype" : [ "float", "bang" ],
 					"patching_rect" : [ 674.5, 447.0, 91.0, 22.0 ],
 					"text" : "buffer~ tekken3"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"autopopulate" : 1,
-					"depth" : 1,
-					"id" : "obj-59",
-					"items" : [ "1+2 CH.wav", ",", "3 Hit.wav", ",", "4 Hit.wav", ",", "Akuma Grunt.wav", ",", "Alarm.wav", ",", "Arcade Jingle.wav", ",", "Blaster.wav", ",", "CH Launch.wav", ",", "Character Select.wav", ",", "Chicken.wav", ",", "Continue_.wav", ",", "D4 CH.wav", ",", "DB4 Hit.wav", ",", "Devil Jin Beam.wav", ",", "DF1 Blocked.wav", ",", "DF1 Hit.wav", ",", "DF1-2, 3+4.wav", ",", "DF2 Hit.wav", ",", "Double K.O.wav", ",", "Draw.wav", ",", "EWGF Whiff.wav", ",", "EX Meter.wav", ",", "FADC.wav", ",", "FF4 CH.wav", ",", "Fight Money Earned.wav", ",", "Fight!.wav", ",", "Final Round.wav", ",", "Game Over.wav", ",", "Good Morning.wav", ",", "Great.wav", ",", "Gun.wav", ",", "Jab 1.wav", ",", "Jab 2.wav", ",", "Jack 7 1+2.wav", ",", "Jack 7 Throw.wav", ",", "Jump Whiff.wav", ",", "K.O.wav", ",", "Ki Charge.wav", ",", "King Roar 1.wav", ",", "King Roar 2.wav", ",", "King Roar 3.wav", ",", "New Challenger.wav", ",", "oops.wav", ",", "Perfect.wav", ",", "Post Slo-mo Hit.wav", ",", "Rage Art.wav", ",", "Rage Drive Blocked.wav", ",", "Rage Drive Hit.wav", ",", "Rage Mode.wav", ",", "Rank Up.wav", ",", "Revenge Match.wav", ",", "Round 1.wav", ",", "Round 2.wav", ",", "Round 3.wav", ",", "Round 4.wav", ",", "Scroll.wav", ",", "Side Select.wav", ",", "Special Battle 2.wav", ",", "Special Battle 3.wav", ",", "Special Battle.wav", ",", "Spent Fight Money.wav", ",", "Staff.wav", ",", "Steve Fox Wall Combo.wav", ",", "Time up.wav", ",", "Wall Splat.wav", ",", "Welcome to Tekken 7.wav", ",", "Whiff 1.wav", ",", "Whiff 2.wav", ",", "Whiff 3.wav", ",", "Yoshimitsu Intro.wav", ",", "You Lose.wav", ",", "You Win.wav" ],
-					"maxclass" : "umenu",
-					"numinlets" : 1,
-					"numoutlets" : 3,
-					"outlettype" : [ "int", "", "" ],
-					"parameter_enable" : 0,
-					"patching_rect" : [ 604.0, 391.0, 160.0, 22.0 ],
-					"presentation" : 1,
-					"presentation_rect" : [ 526.0, 300.0, 160.0, 22.0 ]
 				}
 
 			}
@@ -929,23 +1031,6 @@
 			}
 , 			{
 				"box" : 				{
-					"autopopulate" : 1,
-					"depth" : 1,
-					"id" : "obj-51",
-					"items" : [ "1+2 CH.wav", ",", "3 Hit.wav", ",", "4 Hit.wav", ",", "Akuma Grunt.wav", ",", "Alarm.wav", ",", "Arcade Jingle.wav", ",", "Blaster.wav", ",", "CH Launch.wav", ",", "Character Select.wav", ",", "Chicken.wav", ",", "Continue_.wav", ",", "D4 CH.wav", ",", "DB4 Hit.wav", ",", "Devil Jin Beam.wav", ",", "DF1 Blocked.wav", ",", "DF1 Hit.wav", ",", "DF1-2, 3+4.wav", ",", "DF2 Hit.wav", ",", "Double K.O.wav", ",", "Draw.wav", ",", "EWGF Whiff.wav", ",", "EX Meter.wav", ",", "FADC.wav", ",", "FF4 CH.wav", ",", "Fight Money Earned.wav", ",", "Fight!.wav", ",", "Final Round.wav", ",", "Game Over.wav", ",", "Good Morning.wav", ",", "Great.wav", ",", "Gun.wav", ",", "Jab 1.wav", ",", "Jab 2.wav", ",", "Jack 7 1+2.wav", ",", "Jack 7 Throw.wav", ",", "Jump Whiff.wav", ",", "K.O.wav", ",", "Ki Charge.wav", ",", "King Roar 1.wav", ",", "King Roar 2.wav", ",", "King Roar 3.wav", ",", "New Challenger.wav", ",", "oops.wav", ",", "Perfect.wav", ",", "Post Slo-mo Hit.wav", ",", "Rage Art.wav", ",", "Rage Drive Blocked.wav", ",", "Rage Drive Hit.wav", ",", "Rage Mode.wav", ",", "Rank Up.wav", ",", "Revenge Match.wav", ",", "Round 1.wav", ",", "Round 2.wav", ",", "Round 3.wav", ",", "Round 4.wav", ",", "Scroll.wav", ",", "Side Select.wav", ",", "Special Battle 2.wav", ",", "Special Battle 3.wav", ",", "Special Battle.wav", ",", "Spent Fight Money.wav", ",", "Staff.wav", ",", "Steve Fox Wall Combo.wav", ",", "Time up.wav", ",", "Wall Splat.wav", ",", "Welcome to Tekken 7.wav", ",", "Whiff 1.wav", ",", "Whiff 2.wav", ",", "Whiff 3.wav", ",", "Yoshimitsu Intro.wav", ",", "You Lose.wav", ",", "You Win.wav" ],
-					"maxclass" : "umenu",
-					"numinlets" : 1,
-					"numoutlets" : 3,
-					"outlettype" : [ "int", "", "" ],
-					"parameter_enable" : 0,
-					"patching_rect" : [ 336.0, 391.0, 160.0, 22.0 ],
-					"presentation" : 1,
-					"presentation_rect" : [ 268.0, 300.0, 160.0, 22.0 ]
-				}
-
-			}
-, 			{
-				"box" : 				{
 					"id" : "obj-37",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
@@ -1004,23 +1089,6 @@
 					"outlettype" : [ "float", "bang" ],
 					"patching_rect" : [ 942.5, 893.0, 86.0, 22.0 ],
 					"text" : "buffer~ guitar4"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"autopopulate" : 1,
-					"depth" : 1,
-					"id" : "obj-43",
-					"items" : [ "S1.wav", ",", "S2.wav", ",", "S3.wav", ",", "S4.wav", ",", "S5.wav", ",", "S6.wav" ],
-					"maxclass" : "umenu",
-					"numinlets" : 1,
-					"numoutlets" : 3,
-					"outlettype" : [ "int", "", "" ],
-					"parameter_enable" : 0,
-					"patching_rect" : [ 872.0, 837.0, 160.0, 22.0 ],
-					"presentation" : 1,
-					"presentation_rect" : [ 784.0, 439.0, 160.0, 22.0 ]
 				}
 
 			}
@@ -1089,23 +1157,6 @@
 			}
 , 			{
 				"box" : 				{
-					"autopopulate" : 1,
-					"depth" : 1,
-					"id" : "obj-36",
-					"items" : [ "S1.wav", ",", "S2.wav", ",", "S3.wav", ",", "S4.wav", ",", "S5.wav", ",", "S6.wav" ],
-					"maxclass" : "umenu",
-					"numinlets" : 1,
-					"numoutlets" : 3,
-					"outlettype" : [ "int", "", "" ],
-					"parameter_enable" : 0,
-					"patching_rect" : [ 604.0, 837.0, 160.0, 22.0 ],
-					"presentation" : 1,
-					"presentation_rect" : [ 526.0, 439.0, 160.0, 22.0 ]
-				}
-
-			}
-, 			{
-				"box" : 				{
 					"id" : "obj-23",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
@@ -1164,23 +1215,6 @@
 					"outlettype" : [ "float", "bang" ],
 					"patching_rect" : [ 406.5, 893.0, 86.0, 22.0 ],
 					"text" : "buffer~ guitar2"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"autopopulate" : 1,
-					"depth" : 1,
-					"id" : "obj-29",
-					"items" : [ "S1.wav", ",", "S2.wav", ",", "S3.wav", ",", "S4.wav", ",", "S5.wav", ",", "S6.wav" ],
-					"maxclass" : "umenu",
-					"numinlets" : 1,
-					"numoutlets" : 3,
-					"outlettype" : [ "int", "", "" ],
-					"parameter_enable" : 0,
-					"patching_rect" : [ 336.0, 837.0, 160.0, 22.0 ],
-					"presentation" : 1,
-					"presentation_rect" : [ 268.0, 439.0, 160.0, 22.0 ]
 				}
 
 			}
@@ -1328,9 +1362,9 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 68.0, 815.0, 150.0, 20.0 ],
+					"patching_rect" : [ 68.0, 373.0, 150.0, 20.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 10.0, 417.0, 150.0, 20.0 ],
+					"presentation_rect" : [ 10.0, 277.0, 150.0, 20.0 ],
 					"text" : "Guitar Samples"
 				}
 
@@ -1341,51 +1375,17 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 68.0, 369.0, 150.0, 20.0 ],
+					"patching_rect" : [ 68.0, 819.0, 150.0, 20.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 10.0, 278.0, 150.0, 20.0 ],
+					"presentation_rect" : [ 10.0, 416.0, 150.0, 20.0 ],
 					"text" : "Tekken Samples"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"autopopulate" : 1,
-					"depth" : 1,
-					"id" : "obj-3",
-					"items" : [ "1+2 CH.wav", ",", "3 Hit.wav", ",", "4 Hit.wav", ",", "Akuma Grunt.wav", ",", "Alarm.wav", ",", "Arcade Jingle.wav", ",", "Blaster.wav", ",", "CH Launch.wav", ",", "Character Select.wav", ",", "Chicken.wav", ",", "Continue_.wav", ",", "D4 CH.wav", ",", "DB4 Hit.wav", ",", "Devil Jin Beam.wav", ",", "DF1 Blocked.wav", ",", "DF1 Hit.wav", ",", "DF1-2, 3+4.wav", ",", "DF2 Hit.wav", ",", "Double K.O.wav", ",", "Draw.wav", ",", "EWGF Whiff.wav", ",", "EX Meter.wav", ",", "FADC.wav", ",", "FF4 CH.wav", ",", "Fight Money Earned.wav", ",", "Fight!.wav", ",", "Final Round.wav", ",", "Game Over.wav", ",", "Good Morning.wav", ",", "Great.wav", ",", "Gun.wav", ",", "Jab 1.wav", ",", "Jab 2.wav", ",", "Jack 7 1+2.wav", ",", "Jack 7 Throw.wav", ",", "Jump Whiff.wav", ",", "K.O.wav", ",", "Ki Charge.wav", ",", "King Roar 1.wav", ",", "King Roar 2.wav", ",", "King Roar 3.wav", ",", "New Challenger.wav", ",", "oops.wav", ",", "Perfect.wav", ",", "Post Slo-mo Hit.wav", ",", "Rage Art.wav", ",", "Rage Drive Blocked.wav", ",", "Rage Drive Hit.wav", ",", "Rage Mode.wav", ",", "Rank Up.wav", ",", "Revenge Match.wav", ",", "Round 1.wav", ",", "Round 2.wav", ",", "Round 3.wav", ",", "Round 4.wav", ",", "Scroll.wav", ",", "Side Select.wav", ",", "Special Battle 2.wav", ",", "Special Battle 3.wav", ",", "Special Battle.wav", ",", "Spent Fight Money.wav", ",", "Staff.wav", ",", "Steve Fox Wall Combo.wav", ",", "Time up.wav", ",", "Wall Splat.wav", ",", "Welcome to Tekken 7.wav", ",", "Whiff 1.wav", ",", "Whiff 2.wav", ",", "Whiff 3.wav", ",", "Yoshimitsu Intro.wav", ",", "You Lose.wav", ",", "You Win.wav" ],
-					"maxclass" : "umenu",
-					"numinlets" : 1,
-					"numoutlets" : 3,
-					"outlettype" : [ "int", "", "" ],
-					"parameter_enable" : 0,
-					"patching_rect" : [ 68.0, 391.0, 160.0, 22.0 ],
-					"presentation" : 1,
-					"presentation_rect" : [ 10.0, 300.0, 160.0, 22.0 ]
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"autopopulate" : 1,
-					"depth" : 1,
-					"id" : "obj-1",
-					"items" : [ "S1.wav", ",", "S2.wav", ",", "S3.wav", ",", "S4.wav", ",", "S5.wav", ",", "S6.wav" ],
-					"maxclass" : "umenu",
-					"numinlets" : 1,
-					"numoutlets" : 3,
-					"outlettype" : [ "int", "", "" ],
-					"parameter_enable" : 0,
-					"patching_rect" : [ 68.0, 837.0, 160.0, 22.0 ],
-					"presentation" : 1,
-					"presentation_rect" : [ 10.0, 439.0, 160.0, 22.0 ]
 				}
 
 			}
  ],
 		"lines" : [ 			{
 				"patchline" : 				{
-					"destination" : [ "obj-9", 0 ],
+					"destination" : [ "obj-11", 0 ],
 					"source" : [ "obj-1", 1 ]
 				}
 
@@ -1655,6 +1655,34 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-48", 0 ],
+					"source" : [ "obj-18", 1 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-56", 0 ],
+					"source" : [ "obj-19", 1 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-9", 0 ],
+					"source" : [ "obj-2", 1 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-64", 0 ],
+					"source" : [ "obj-21", 1 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-24", 0 ],
 					"source" : [ "obj-23", 0 ]
 				}
@@ -1691,13 +1719,6 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-26", 0 ],
-					"source" : [ "obj-29", 1 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-11", 0 ],
 					"source" : [ "obj-3", 1 ]
 				}
 
@@ -1739,13 +1760,6 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-33", 0 ],
-					"source" : [ "obj-36", 1 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
 					"destination" : [ "obj-38", 0 ],
 					"source" : [ "obj-37", 0 ]
 				}
@@ -1774,15 +1788,15 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-41", 0 ],
-					"source" : [ "obj-40", 0 ]
+					"destination" : [ "obj-33", 0 ],
+					"source" : [ "obj-4", 1 ]
 				}
 
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-40", 0 ],
-					"source" : [ "obj-43", 1 ]
+					"destination" : [ "obj-41", 0 ],
+					"source" : [ "obj-40", 0 ]
 				}
 
 			}
@@ -1823,13 +1837,6 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-48", 0 ],
-					"source" : [ "obj-51", 1 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
 					"destination" : [ "obj-54", 0 ],
 					"source" : [ "obj-53", 0 ]
 				}
@@ -1865,8 +1872,8 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-56", 0 ],
-					"source" : [ "obj-59", 1 ]
+					"destination" : [ "obj-40", 0 ],
+					"source" : [ "obj-6", 1 ]
 				}
 
 			}
@@ -1902,13 +1909,6 @@
 				"patchline" : 				{
 					"destination" : [ "obj-65", 0 ],
 					"source" : [ "obj-64", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-64", 0 ],
-					"source" : [ "obj-67", 1 ]
 				}
 
 			}
@@ -2224,7 +2224,7 @@
 		}
 ,
 		"dependency_cache" : [ 			{
-				"name" : "controllerMapping-v3.maxpat",
+				"name" : "controllerMapping-v3b.maxpat",
 				"bootpath" : "~/Documents/GitHub/MULE-F21/ControllerMapping",
 				"patcherrelativepath" : "../ControllerMapping",
 				"type" : "JSON",

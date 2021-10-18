@@ -4,19 +4,13 @@ Repository for Miami University Laptop Ensemble files.
   
 ## Repetoire List
 
-### Sure Things
+### Proposed Program for Nov 19 Concert
 - [Singaporean Crosswalk](SingaporeanCrosswalk) - Joo-Won Park
-- [Gibber/Gabber improvisation](Gibber)
-
-### In Process
+- [Gibber/Gabber improvisation](Other/Gibber)
 - [Tekken Music](Tekken)
 - [Reese's Piece](ReeseSoundscape)
 - [Vocal Processing w/ Improv Actors](VocalProcessing)
 - [Unmute](Unmute) - Flannery Cunningham*
-
-### Unlikely, but still being considered (in Backup)
-- [Sonic Meditations](Backup/SonicMeditations) - Pauline Oliveros*
-- [inChuck](Backup/inChuck) - Stephen David Beck*
 
 ---
 
@@ -28,7 +22,5 @@ All MULE members are expected to install these applications on their laptops.
 - [SuperCollider](https://supercollider.github.io/)
 
 ### General Resources:
-- [Controller Mapping](ControllerMapping)
+- [Controller Mapping](Other/ControllerMapping)
 - [Gibber Site](https://gibber.cc/alpha/playground/)
-
-*\*Needs attention - to-do lists are on the individual ReadMe pages.*

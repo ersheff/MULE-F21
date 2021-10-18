@@ -18,3 +18,11 @@
 - SmallHit7
 
 [Score for Clapping Music](SteveReich-ClappingMusic.pdf)
+
+## Notes
+Things to do:
+1. Distribute parts
+2. Decide on final samples
+3. Map out a structure (e.g. for switching between samples)
+4. Practice!
+5. Try with Tekken running

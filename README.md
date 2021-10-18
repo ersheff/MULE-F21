@@ -9,8 +9,8 @@ Repository for Miami University Laptop Ensemble files.
 - [Gibber/Gabber improvisation](Other/Gibber)
 - [Tekken Music](Tekken)
 - [Reese's Piece](ReeseSoundscape)
-- [Vocal Processing w/ Improv Actors](VocalProcessing)
-- [Unmute](Unmute) - Flannery Cunningham*
+- [Qwerty Processing](QwertyProcessing) (half of ensemble)
+- [Unmute](Unmute) - Flannery Cunningham (half of ensemble)
 
 ---
 

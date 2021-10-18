@@ -17,7 +17,6 @@ Repository for Miami University Laptop Ensemble files.
 ### Software List:
 All MULE members are expected to install these applications on their laptops.
 - [Max](https://cycling74.com/downloads)
-- [ChucK](http://chuck.stanford.edu/)
 - [RetroArch](https://www.retroarch.com/)
 - [SuperCollider](https://supercollider.github.io/)
 

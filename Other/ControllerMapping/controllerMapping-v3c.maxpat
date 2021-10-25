@@ -668,7 +668,6 @@
 						"style" : "",
 						"subpatcher_template" : "",
 						"assistshowspatchername" : 0,
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-2",
@@ -1810,18 +1809,6 @@
 					}
 ,
 					"text" : "p XBOXmappingWin"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-46",
-					"maxclass" : "newobj",
-					"numinlets" : 2,
-					"numoutlets" : 1,
-					"outlettype" : [ "int" ],
-					"patching_rect" : [ 245.0, 131.0, 29.5, 22.0 ],
-					"text" : "+ 1"
 				}
 
 			}
@@ -3550,7 +3537,8 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-46", 0 ],
+					"destination" : [ "obj-43", 0 ],
+					"midpoints" : [ 254.5, 167.25, 81.5, 167.25 ],
 					"source" : [ "obj-4", 0 ]
 				}
 
@@ -3815,13 +3803,6 @@
 				"patchline" : 				{
 					"destination" : [ "obj-5", 0 ],
 					"source" : [ "obj-43", 4 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-43", 0 ],
-					"source" : [ "obj-46", 0 ]
 				}
 
 			}

@@ -833,7 +833,7 @@
 		"lines" : [ 			{
 				"patchline" : 				{
 					"destination" : [ "obj-20", 1 ],
-					"source" : [ "obj-100", 2 ]
+					"source" : [ "obj-100", 1 ]
 				}
 
 			}

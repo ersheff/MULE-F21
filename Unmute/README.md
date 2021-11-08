@@ -15,6 +15,11 @@ to a broadened array of sound-makers. Let’s sing (or “sing”) together.
 [Performance Video](https://www.youtube.com/embed/Qs-yNCWS2hQ)  
 [Score](Cunningham_Unmute_score101019.pdf)
 
-### To-Dos
-- Waiting for patch from Flannery
-- Determine control scheme (replacement for Leap Motion, should be physical/visual)
+### Personnel
+- Kat B
+- Kat S
+- Megan
+- Nick
+- Molly
+- Zac
+- Ian

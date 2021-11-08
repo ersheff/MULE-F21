@@ -1296,7 +1296,7 @@
 ,
 		"dependency_cache" : [ 			{
 				"name" : "controllerMapping-v4.maxpat",
-				"bootpath" : "~/Documents/GitHub/MULE-F21/Other/ControllerMapping",
+				"bootpath" : "~/GitHub/MULE-F21/Other/ControllerMapping",
 				"patcherrelativepath" : "../Other/ControllerMapping",
 				"type" : "JSON",
 				"implicit" : 1

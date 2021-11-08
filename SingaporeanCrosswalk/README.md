@@ -3,3 +3,5 @@
 > Singaporean Crosswalk was inspired by my trip to Singapore in 2010. The sound of the traffic light in the city was quite different from that of the United States and Korea.
 
 [Score](Instructions.pdf)
+
+[Mobile Version (YouTube Playlist)](https://youtube.com/playlist?list=PLfKpvkSDJYaE02JbBTbjHtpD5cyM2hiLD)

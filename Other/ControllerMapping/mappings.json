@@ -22,7 +22,7 @@
 			"right" : 9000,
 			"down" : 18000,
             "left" : 27000,
-            "release" : 8
+            "release" : 4294967295
 		},
 		"face" : 		{
 			"up" : 51,
@@ -54,7 +54,7 @@
 			"right" : 9000,
 			"down" : 18000,
             "left" : 27000,
-            "release" : 0
+            "release" : 4294967295
 		},
 		"face" : 		{
 			"up" : 51,

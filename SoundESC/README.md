@@ -2,9 +2,7 @@
 
 A structured improvisation using feedback and sound-making objects.
 
-![Score](Sound\[ESC\] Score Screenshot.png)
-
-Link to score???
+![Score](SoundESC-Score-Screenshot.png)
 
 ## Personnel
 - Sam

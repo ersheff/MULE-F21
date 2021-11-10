@@ -4,12 +4,12 @@ Repository for Miami University Laptop Ensemble files.
   
 ## Repetoire List
 
-### Proposed Program for Nov 19 Concert
+### Final Program for Nov 19 Concert
 - [Singaporean Crosswalk](SingaporeanCrosswalk) - Joo-Won Park
-- [Gibber/Gabber improvisation](Other/Gibber) - use Gabber room MULE1119 for performance
-- [Tekken Music](Tekken)
-- [Sound[ESC]](SoundESC) (half of ensemble)
+- [Clapping Music (Tekken)](ClappingMusic)
 - [Unmute](Unmute) - Flannery Cunningham (half of ensemble)
+- [Sound[ESC]](SoundESC) (half of ensemble)
+- [Gibber/Gabber improvisation](Gibber) - use Gabber room MULE1119 for performance
 
 ---
 

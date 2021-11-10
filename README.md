@@ -11,6 +11,8 @@ Repository for Miami University Laptop Ensemble files.
 - [Sound[ESC]](SoundESC) (half of ensemble)
 - [Gibber/Gabber improvisation](Gibber) - use Gabber room MULE1119 for performance
 
+![MULE Seating Chart](MULE-Seating.jpg)
+
 ---
 
 ### Software List:

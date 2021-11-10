@@ -46,7 +46,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 513.0, 652.0, 40.0, 22.0 ],
-					"text" : "*~ 0.9"
+					"text" : "*~ 0.8"
 				}
 
 			}
@@ -58,7 +58,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 109.0, 652.0, 40.0, 22.0 ],
-					"text" : "*~ 0.9"
+					"text" : "*~ 0.8"
 				}
 
 			}
@@ -518,13 +518,14 @@
 					"fontface" : 1,
 					"fontsize" : 24.0,
 					"id" : "obj-129",
+					"linecount" : 2,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 19.0, 10.0, 306.0, 33.0 ],
+					"patching_rect" : [ 19.0, 10.0, 306.0, 60.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 2.0, 4.0, 306.0, 33.0 ],
-					"text" : "Tekken Sample Player v5"
+					"presentation_rect" : [ 2.0, 4.0, 321.0, 33.0 ],
+					"text" : "Tekken Sample Player v5b"
 				}
 
 			}
@@ -1125,6 +1126,13 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-74", 0 ],
+					"source" : [ "obj-70", 1 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-17", 0 ],
 					"source" : [ "obj-72", 0 ]
 				}
@@ -1202,6 +1210,13 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-84", 0 ],
+					"source" : [ "obj-86", 1 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-85", 0 ],
 					"source" : [ "obj-86", 0 ]
 				}
@@ -1218,6 +1233,13 @@
 				"patchline" : 				{
 					"destination" : [ "obj-103", 0 ],
 					"source" : [ "obj-88", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-83", 0 ],
+					"source" : [ "obj-89", 1 ]
 				}
 
 			}
@@ -1246,6 +1268,13 @@
 				"patchline" : 				{
 					"destination" : [ "obj-96", 0 ],
 					"source" : [ "obj-92", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-91", 0 ],
+					"source" : [ "obj-93", 1 ]
 				}
 
 			}

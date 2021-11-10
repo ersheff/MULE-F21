@@ -16,10 +16,10 @@ to a broadened array of sound-makers. Let’s sing (or “sing”) together.
 [Score](Cunningham_Unmute_score101019.pdf)
 
 ### Personnel
-- Kat B
-- Kat S
-- Megan
-- Nick
-- Molly
-- Zac
-- Ian
+- Kat B https://mule-unmute.herokuapp.com/?user=katb
+- Kat S https://mule-unmute.herokuapp.com/?user=kats
+- Megan https://mule-unmute.herokuapp.com/?user=megan
+- Nick https://mule-unmute.herokuapp.com/?user=nick
+- Molly https://mule-unmute.herokuapp.com/?user=molly
+- Zac https://mule-unmute.herokuapp.com/?user=zac
+- Ian https://mule-unmute.herokuapp.com/?user=ian

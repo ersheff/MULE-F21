@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 62.0, 1133.0, 804.0 ],
+		"rect" : [ 34.0, 62.0, 1366.0, 804.0 ],
 		"bglocked" : 1,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -40,6 +40,46 @@
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
 				"box" : 				{
+					"id" : "obj-119",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 2,
+					"outlettype" : [ "int", "int" ],
+					"patching_rect" : [ 491.0, 423.0, 35.0, 22.0 ],
+					"text" : "t 63 i"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-118",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 1046.0, 326.0, 150.0, 20.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 1011.5, 302.5, 72.0, 20.0 ],
+					"text" : "Connected"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-111",
+					"linecount" : 5,
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 1042.0, 220.0, 150.0, 74.0 ],
+					"presentation" : 1,
+					"presentation_linecount" : 4,
+					"presentation_rect" : [ 1011.5, 189.0, 188.5, 60.0 ],
+					"text" : "Prep slider\n1. click \"script start\"\n2. wait for connected light\n3. choose your name from menu"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"id" : "obj-94",
 					"maxclass" : "newobj",
 					"numinlets" : 2,
@@ -61,7 +101,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 362.0, 263.0, 100.0, 22.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1011.5, 213.5, 100.0, 22.0 ]
+					"presentation_rect" : [ 1011.5, 278.5, 100.0, 22.0 ]
 				}
 
 			}
@@ -98,7 +138,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 176.0, 215.0, 64.0, 22.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1011.5, 189.5, 64.0, 22.0 ],
+					"presentation_rect" : [ 1011.5, 254.5, 64.0, 22.0 ],
 					"text" : "script start"
 				}
 
@@ -113,7 +153,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 176.0, 357.0, 24.0, 24.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1011.5, 237.5, 24.0, 24.0 ]
+					"presentation_rect" : [ 1085.0, 302.5, 24.0, 24.0 ]
 				}
 
 			}
@@ -140,6 +180,8 @@
 					"saved_object_attributes" : 					{
 						"autostart" : 0,
 						"defer" : 0,
+						"node_bin_path" : "",
+						"npm_bin_path" : "",
 						"watch" : 0
 					}
 ,
@@ -24056,8 +24098,8 @@
 , 							{
 								"name" : "newobjYellow-1",
 								"default" : 								{
-									"fontsize" : [ 12.059008 ],
-									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+									"fontsize" : [ 12.059008 ]
 								}
 ,
 								"parentstyle" : "",
@@ -31781,6 +31823,20 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-11", 1 ],
+					"source" : [ "obj-119", 1 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-11", 0 ],
+					"source" : [ "obj-119", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-36", 0 ],
 					"source" : [ "obj-12", 0 ]
 				}
@@ -32196,7 +32252,7 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-11", 1 ],
+					"destination" : [ "obj-119", 0 ],
 					"source" : [ "obj-94", 0 ]
 				}
 
@@ -32232,7 +32288,7 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "Unmute_page1.png",
-				"bootpath" : "~/Documents/GitHub/MULE-F21/Unmute/UnmuteFiles",
+				"bootpath" : "~/GitHub/MULE-F21/Unmute/UnmuteFiles",
 				"patcherrelativepath" : "./UnmuteFiles",
 				"type" : "PNG",
 				"implicit" : 1
@@ -32245,7 +32301,7 @@
 			}
 , 			{
 				"name" : "unmute-max-client.js",
-				"bootpath" : "~/Documents/GitHub/MULE-F21/Unmute",
+				"bootpath" : "~/GitHub/MULE-F21/Unmute",
 				"patcherrelativepath" : ".",
 				"type" : "TEXT",
 				"implicit" : 1
@@ -32296,8 +32352,8 @@
 , 			{
 				"name" : "newobjYellow-1",
 				"default" : 				{
-					"fontsize" : [ 12.059008 ],
-					"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+					"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+					"fontsize" : [ 12.059008 ]
 				}
 ,
 				"parentstyle" : "",
@@ -32315,8 +32371,8 @@
 , 			{
 				"name" : "radiogroupGreen",
 				"default" : 				{
-					"color" : [ 0.960784, 0.827451, 0.156863, 1.0 ],
-					"bgcolor" : [ 0.0, 0.533333, 0.168627, 1.0 ]
+					"bgcolor" : [ 0.0, 0.533333, 0.168627, 1.0 ],
+					"color" : [ 0.960784, 0.827451, 0.156863, 1.0 ]
 				}
 ,
 				"parentstyle" : "",

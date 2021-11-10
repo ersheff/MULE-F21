@@ -2,7 +2,7 @@
 
 A structured improvisation using feedback and sound-making objects.
 
-![Diagram](Qwerty-Map.jpg)
+![Score](Sound\[ESC\] Score Screenshot.png)
 
 Link to score???
 

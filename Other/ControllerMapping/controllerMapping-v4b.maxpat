@@ -377,16 +377,16 @@
 , 			{
 				"box" : 				{
 					"fontface" : 1,
-					"fontsize" : 16.0,
+					"fontsize" : 14.0,
 					"id" : "obj-32",
 					"linecount" : 2,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 688.0, 87.0, 151.0, 42.0 ],
+					"patching_rect" : [ 688.0, 87.0, 134.0, 38.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 0.0, 0.0, 200.0, 24.0 ],
-					"text" : "MULE Controller Input v4"
+					"presentation_rect" : [ 0.0, 0.0, 193.0, 22.0 ],
+					"text" : "MULE Controller Input v4b"
 				}
 
 			}
@@ -646,7 +646,7 @@
 					"fontname" : "Arial",
 					"fontsize" : 10.0,
 					"id" : "obj-4",
-					"items" : [ ",", "PS4-mac", ",", "PS4-win", ",", "XBOX-mac", ",", "XBOX-win", ",", "GC-win" ],
+					"items" : [ ",", "PS4-mac", ",", "PS4-win", ",", "XBOX-mac", ",", "XBOX-win", ",", "GC-win", ",", "Logitech" ],
 					"labelclick" : 1,
 					"maxclass" : "umenu",
 					"numinlets" : 1,
@@ -694,7 +694,7 @@
 					"fontname" : "Arial",
 					"fontsize" : 10.0,
 					"id" : "obj-28",
-					"items" : [ "Wireless Controller", ",", "Magic Keyboard", ",", "Magic Keyboard 2", ",", "Magic Keyboard 3", ",", "Magic Trackpad", ",", "Magic Trackpad 2", ",", "Magic Trackpad 3", ",", "Magic Trackpad 4", ",", "Magic Keyboard 4", ",", "Magic Trackpad 5", ",", "Page: 0xff00, Usage: 0xff", ",", "BTM", ",", "Headset" ],
+					"items" : [ "Logitech Dual Action", ",", "Wireless Controller", ",", "Magic Trackpad", ",", "Magic Trackpad 2", ",", "Magic Trackpad 3", ",", "Magic Trackpad 4", ",", "Magic Keyboard", ",", "Magic Keyboard 2", ",", "Magic Keyboard 3", ",", "Magic Trackpad 5", ",", "Magic Keyboard 4", ",", "Page: 0xff00, Usage: 0xff", ",", "BTM", ",", "Headset" ],
 					"labelclick" : 1,
 					"maxclass" : "umenu",
 					"numinlets" : 1,

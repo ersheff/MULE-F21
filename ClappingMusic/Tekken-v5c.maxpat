@@ -40,13 +40,49 @@
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
 				"box" : 				{
+					"id" : "obj-9",
+					"maxclass" : "message",
+					"numinlets" : 2,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 320.0, 33.0, 101.0, 22.0 ],
+					"text" : "replace Clap.wav"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-4",
+					"maxclass" : "newobj",
+					"numinlets" : 2,
+					"numoutlets" : 1,
+					"outlettype" : [ "signal" ],
+					"patching_rect" : [ 513.0, 956.0, 40.0, 22.0 ],
+					"text" : "*~ 0.7"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-3",
+					"maxclass" : "newobj",
+					"numinlets" : 2,
+					"numoutlets" : 1,
+					"outlettype" : [ "signal" ],
+					"patching_rect" : [ 109.0, 956.0, 40.0, 22.0 ],
+					"text" : "*~ 0.7"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"id" : "obj-2",
 					"maxclass" : "newobj",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 513.0, 652.0, 40.0, 22.0 ],
-					"text" : "*~ 0.8"
+					"patching_rect" : [ 513.0, 652.0, 34.0, 22.0 ],
+					"text" : "*~ 1."
 				}
 
 			}
@@ -57,8 +93,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 109.0, 652.0, 40.0, 22.0 ],
-					"text" : "*~ 0.8"
+					"patching_rect" : [ 109.0, 652.0, 34.0, 22.0 ],
+					"text" : "*~ 1."
 				}
 
 			}
@@ -199,7 +235,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 513.0, 972.0, 85.0, 22.0 ],
+					"patching_rect" : [ 513.0, 991.0, 85.0, 22.0 ],
 					"text" : "send~ output2"
 				}
 
@@ -423,8 +459,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 423.0, 33.0, 101.0, 22.0 ],
-					"text" : "replace Clap.wav"
+					"patching_rect" : [ 423.0, 33.0, 117.0, 22.0 ],
+					"text" : "replace Clap-new.aif"
 				}
 
 			}
@@ -501,7 +537,7 @@
 					"lockeddragscroll" : 0,
 					"lockedsize" : 0,
 					"maxclass" : "bpatcher",
-					"name" : "controllerMapping-v4.maxpat",
+					"name" : "controllerMapping-v4b.maxpat",
 					"numinlets" : 0,
 					"numoutlets" : 8,
 					"offset" : [ 0.0, 0.0 ],
@@ -522,10 +558,10 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 19.0, 10.0, 306.0, 60.0 ],
+					"patching_rect" : [ 19.0, 10.0, 282.0, 60.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 2.0, 4.0, 321.0, 33.0 ],
-					"text" : "Tekken Sample Player v5b"
+					"text" : "Tekken Sample Player v5c"
 				}
 
 			}
@@ -568,7 +604,7 @@
 					"lockeddragscroll" : 0,
 					"lockedsize" : 0,
 					"maxclass" : "bpatcher",
-					"name" : "controllerMapping-v4.maxpat",
+					"name" : "controllerMapping-v4b.maxpat",
 					"numinlets" : 0,
 					"numoutlets" : 8,
 					"offset" : [ 0.0, 0.0 ],
@@ -637,7 +673,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 109.0, 972.0, 85.0, 22.0 ],
+					"patching_rect" : [ 109.0, 991.0, 85.0, 22.0 ],
 					"text" : "send~ output1"
 				}
 
@@ -1014,7 +1050,7 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-98", 0 ],
+					"destination" : [ "obj-3", 0 ],
 					"source" : [ "obj-17", 0 ]
 				}
 
@@ -1037,6 +1073,20 @@
 				"patchline" : 				{
 					"destination" : [ "obj-25", 0 ],
 					"source" : [ "obj-26", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-98", 0 ],
+					"source" : [ "obj-3", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-82", 0 ],
+					"source" : [ "obj-4", 0 ]
 				}
 
 			}
@@ -1252,6 +1302,13 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-8", 0 ],
+					"source" : [ "obj-9", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-80", 0 ],
 					"source" : [ "obj-90", 0 ]
 				}
@@ -1301,7 +1358,7 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-82", 0 ],
+					"destination" : [ "obj-4", 0 ],
 					"source" : [ "obj-96", 0 ]
 				}
 
@@ -1324,7 +1381,7 @@
 		}
 ,
 		"dependency_cache" : [ 			{
-				"name" : "controllerMapping-v4.maxpat",
+				"name" : "controllerMapping-v4b.maxpat",
 				"bootpath" : "~/GitHub/MULE-F21/Other/ControllerMapping",
 				"patcherrelativepath" : "../Other/ControllerMapping",
 				"type" : "JSON",

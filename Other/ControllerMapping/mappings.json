@@ -77,5 +77,21 @@
 			"down" : 49,
             "left" : 50
 		}
+	},
+    "Logitech" : {
+		"dpad" : {
+			"route": 23,
+			"up" : 0,
+			"right" : 2,
+			"down" : 4,
+            "left" : 6,
+            "release" : 8
+		},
+		"face" : 		{
+			"up" : 9,
+			"right" : 8,
+			"down" : 7,
+            "left" : 6
+		}
 	}
 }

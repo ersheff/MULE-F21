@@ -40,13 +40,43 @@
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
 				"box" : 				{
+					"fontface" : 1,
+					"id" : "obj-123",
+					"linecount" : 3,
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 1010.0, 659.0, 162.0, 47.0 ],
+					"presentation" : 1,
+					"presentation_linecount" : 3,
+					"presentation_rect" : [ 983.0, 646.0, 162.0, 47.0 ],
+					"text" : "Change your signal vector and I/O sizes to 256 if you are hearing audio glitches"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-122",
+					"linecount" : 3,
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 547.0, 714.0, 150.0, 47.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 418.5, 696.0, 334.0, 20.0 ],
+					"text" : "A, E, and U keys can be used to retrigger vowels if needed"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"id" : "obj-121",
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 848.0, 700.0, 50.0, 22.0 ],
-					"text" : "130"
+					"text" : "127"
 				}
 
 			}
@@ -24627,7 +24657,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 840.0, 737.0, 29.5, 22.0 ],
-					"text" : "130"
+					"text" : "127"
 				}
 
 			}
@@ -32343,7 +32373,7 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "Unmute_page1.png",
-				"bootpath" : "~/GitHub/MULE-F21/Unmute/UnmuteFiles",
+				"bootpath" : "~/Documents/GitHub/MULE-F21/Unmute/UnmuteFiles",
 				"patcherrelativepath" : "./UnmuteFiles",
 				"type" : "PNG",
 				"implicit" : 1
@@ -32356,7 +32386,7 @@
 			}
 , 			{
 				"name" : "unmute-max-client.js",
-				"bootpath" : "~/GitHub/MULE-F21/Unmute",
+				"bootpath" : "~/Documents/GitHub/MULE-F21/Unmute",
 				"patcherrelativepath" : ".",
 				"type" : "TEXT",
 				"implicit" : 1
@@ -32426,8 +32456,8 @@
 , 			{
 				"name" : "radiogroupGreen",
 				"default" : 				{
-					"bgcolor" : [ 0.0, 0.533333, 0.168627, 1.0 ],
-					"color" : [ 0.960784, 0.827451, 0.156863, 1.0 ]
+					"color" : [ 0.960784, 0.827451, 0.156863, 1.0 ],
+					"bgcolor" : [ 0.0, 0.533333, 0.168627, 1.0 ]
 				}
 ,
 				"parentstyle" : "",

@@ -2,7 +2,7 @@
 
 Repository for Miami University Laptop Ensemble files.  
   
-## Repetoire List
+## Repertoire List
 
 ### Final Program for Nov 19 Concert
 - [Singaporean Crosswalk](SingaporeanCrosswalk) - Joo-Won Park
